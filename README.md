@@ -5,3 +5,4 @@ To Do
 -----
  * Add functions for scraping stories/comments/questions/etc.
  * Add private message functions
+ * Add add notification checking
